@@ -4,6 +4,7 @@ Chrome Dino 小游戏，使用 pygame 制作。
 <img src="https://github.com/xiaoaug/Chrome_Dino_Game_Python/assets/39291338/28bd385a-4750-40bb-b86b-f22656af5157" width="700">
 <img src="https://github.com/xiaoaug/Chrome_Dino_Game_Python/assets/39291338/d6f0f39b-44a4-45c6-bfaa-0e080f9666dc" width="700">
 
+测试环境：Windows11 + Python3.10
 
 # 如何使用？
 
